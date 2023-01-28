@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/", {data:[{_img:{"/_ipx/_/logo.png":"https:\u002F\u002Frhodrij9.github.io\u002FJacLewisPages\u002F\u002Fimage\u002F550c03.png"}}],fetch:{},mutations:void 0});
